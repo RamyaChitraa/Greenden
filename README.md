@@ -33,7 +33,8 @@ A clean, minimal, and eco-friendly landing page design for plant lovers 🌿
 
 Download or clone the repository
 
-git clone https://github.com/RamyaChitraa/Greenden.git
+🔗 GitHub Repo:https://github.com/RamyaChitraa/Greenden.git
+🌐 Live Site:https://greenden-iota.vercel.app/index.html
 
 
 
